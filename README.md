@@ -1,3 +1,3 @@
 # git-demo
-this first repo
-authe : Amit kumar
+this first repo<br.<br/>
+auther : Amit kumar
